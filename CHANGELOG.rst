@@ -2,6 +2,8 @@
 Changelog
 =========
 
+* Added binary wheels for Python 3.9.
+
 1.5.1 (2020-07-22)
 ------------------
 
